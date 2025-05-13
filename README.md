@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">🌸 Hi there! I'm Bunny 🐰</h1>
 
-<!--
-**PastelBunnyDesu/PastelBunnyDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎀 21 years old | just coding for fun! 💻✨<br>
+  I love making cute, cozy and playful projects! 🌷
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧸 About Me
+
+- 💕 I'm a hobbyist coder who enjoys creating adorable little experiments
+- 🐣 Still learning! I know basic JavaScript and some Java
+- 🌈 Especially curious about design, front-end, and game development (just starting!)  
+- ✨ I enjoy coding slowly, calmly, and with creativity 💗
+- 🍓 Just starting out, but excited to learn and grow ✨
+
+---
+
+### 🌼 Things I Like
+
+`Cute UI Design` • `Pixel Art` • `Cozy Vibes` ☕🐻  
+(learning more about `HTML`, `CSS`, and hoping to try `React` soon!)
+
+---
+
+<p align="center">
+  Thanks for stopping by! 💗
+</p>
